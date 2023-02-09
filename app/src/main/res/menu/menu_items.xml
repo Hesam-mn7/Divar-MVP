@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_agahi"
+        android:title="آگهی ها"
+        android:icon="@drawable/smal_divar"
+        />
+    <item
+        android:id="@+id/action_dasteha"
+        android:title="دسته ها"
+        android:icon="@drawable/ic_baseline_format_list_bulleted_24"/>
+    <item
+        android:id="@+id/action_sabtahahi"
+        android:title="ثبت آگهی"
+        android:icon="@drawable/ic_baseline_add_circle_24"/>
+    <item
+        android:id="@+id/action_chat"
+        android:title="چت"
+        android:icon="@drawable/ic_baseline_chat_bubble_24"/>
+    <item
+        android:id="@+id/action_divarman"
+        android:title="دیوار من"
+        android:icon="@drawable/ic_outline_account_box_24"/>
+
+
+</menu>
